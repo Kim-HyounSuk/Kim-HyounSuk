@@ -37,5 +37,4 @@
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-HyounSuk&layout=compact)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=______)](https://solved.ac/profile/hsbugs)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsbugs)](https://solved.ac/hsbugs/)
