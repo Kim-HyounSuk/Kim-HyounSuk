@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20Vanlan's%20Github!&fontAlign=40&fontAlignY=40&color=gradient&fontSize=40)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Vanlan's%20Github!&fontAlign=40&fontAlignY=40&color=gradient&fontSize=40)
 
 ### 🙇 안녕하세요, Frontend 개발자로 성장해나가고 있는 김현석입니다!
 
